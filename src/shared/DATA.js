@@ -49,5 +49,3 @@ export const DATA = [
       title: 'Product #12',
     },
   ];
-
-  
